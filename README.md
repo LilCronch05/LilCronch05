@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexander or @LilCronch05.
+- 👋 Hi, I’m Frantz or @LilCronch05.
 - 👀 I’m interested in video games, music and table top games.
 - 🌱 I love learning code. Specifically for Game development.
 - 💞️ I’m not really looking to collaborate on anything at the moment. But I would like to work on small indie/rpg games in the future.
